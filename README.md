@@ -18,6 +18,6 @@ Code for the labs of the Machine Learning 2 course at the University of Amsterda
   <i> Expectation Maximization </i>
   <br />
   <br />
-  <img src="src="fig/fig1.png" width="500" /><br />
+  <img src="fig/fig1.png" width="500" /><br />
   <i> Learned Manifold of the VAE </i>
 </p>
